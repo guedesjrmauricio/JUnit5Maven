@@ -36,7 +36,7 @@ public class Produto
 	
 	@Override
 	public String toString() {
-		return "Id: " + this.id + " Descri��o: " + this.descricao;
+		return "Id: " + this.id + " Descri��o: " + this.descricao + " - Atributos da classe.";
 	}
 
 }
